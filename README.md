@@ -1,4 +1,4 @@
-# CIS25_Fall2025
+# CIS25_Fall2025-week 6
 This week’s code includes the required Module 7 tasks:
 
 🔹 1. Binary Search
